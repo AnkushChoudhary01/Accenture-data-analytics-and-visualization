@@ -42,3 +42,9 @@ The dashboard answers key questions like:
 ### 📈 **Monthly Posting Trend**
 The number of posts fluctuates throughout the year, with notable spikes in:
 - **January** (2,126)
+
+
+## 📁 File Included
+
+- <a href="https://github.com/AnkushChoudhary01/Accenture-data-analytics-and-visualization/blob/main/Content.csv">Dataset</a>
+- <a href="https://github.com/AnkushChoudhary01/Accenture-data-analytics-and-visualization/blob/main/Screenshot%202025-04-11%20002700.png">Dashboard</a>
